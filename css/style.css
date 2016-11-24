@@ -1,0 +1,89 @@
+
+.dictionary {
+	width: 300px;
+	height: 400px;
+	padding: 10px;
+}
+
+.screen {
+	height: 50px;
+	border: 1px solid #000000;
+	margin-bottom: 10px;
+}
+
+.keypad {
+	position: relative;
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+.key {
+	position: absolute;
+	width: 85px;
+	height: 50px;
+	padding: 5px;
+}
+
+.delete {
+	float: right;
+}
+
+.key-1 {
+	top: 0;
+	left: 0;
+}
+
+.key-2 {
+	top: 0;
+	left: 97.5px;
+}
+
+.key-3 {
+	top: 0;
+	left: 195px;
+}
+
+.key-4 {
+	top: 60px;
+	left: 0;
+}
+
+.key-5 {
+	top: 60px;
+	left: 97.5px;
+}
+
+.key-6 {
+	top: 60px;
+	left: 195px;
+}
+
+.key-7 {
+	top: 120px;
+	left: 0;
+}
+
+.key-8 {
+	top: 120px;
+	left: 97.5px;
+}
+
+.key-9 {
+	top: 120px;
+	left: 195px;
+}
+
+.key-star {
+	top: 180px;
+	left: 0;
+}
+
+.key-0 {
+	top: 180px;
+	left: 97.5px;
+}
+
+.key-space {
+	top: 180px;
+	left: 195px;
+}
